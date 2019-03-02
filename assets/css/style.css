@@ -1,0 +1,18 @@
+body{
+    background-image: url ("download.jpg");
+    background-color: wheat;
+    text-align: center;
+}
+h1{
+    color:  white;
+}
+p{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+     font-size: 35px;
+     
+}
+
+
+
+
