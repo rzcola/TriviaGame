@@ -4,8 +4,10 @@
 * multiple choice nba trivia game 
 
 * player(s) has/have a limited amount of time answer each question and to finish the quiz. 
+![Screenshot](/2.png)
 
 * If times runs out per question the correct answer is shown and is calulated towards either total correct or incorrect.
+![Screenshot](/1.png)
 
 * When the game ends or the time runs out. The page reveals the number of questions that players answered correctly and incorrectly.
 
